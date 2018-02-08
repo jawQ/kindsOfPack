@@ -1,0 +1,23 @@
+{
+  "name": "testGrunt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "grunt": "^1.0.1",
+    "grunt-babel": "^7.0.0",
+    "grunt-legacy-log": "^1.0.0",
+    "grunt-legacy-util": "^1.0.0",
+    "load-grunt-tasks": "^3.5.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
